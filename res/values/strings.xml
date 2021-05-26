@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NGO2</string>
+    <string name="title_activity_userdashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_catalogue">Books Catalogue</string>
+</resources>
